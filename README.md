@@ -10,3 +10,8 @@ Profissional em transição de carreira, focado em análise de dados.
 ### Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moreiraacf&repo=CalcProjeto&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moreiraacf)](https://github.com/anuraghazra/github-readme-stats)
