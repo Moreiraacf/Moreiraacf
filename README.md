@@ -18,4 +18,4 @@ Profissional em transição de carreira, focado em análise de dados.
 
 ## Contato
 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg' alt='LinkedIn' height='30'>](www.linkedin.com/in/allysson-moreira-am)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/allysson-moreira-am)
