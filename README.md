@@ -1,13 +1,16 @@
-## Olá 👋
+## Olá! 👋 Me chamo Allysson Moreira!
 
 #### Sobre o Allysson
-Profissional em transição de carreira, focado em análise de dados.
+Profissional em transição de carreira, atualmente cursando profissionalizante em Análise de Dados, além de possuir inglês nível avançado. 
+Possuo perfil proativo, resiliente e detalhista.
 
 ### Detalhes
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moreiraacf&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moreiraacf&repo=AutomatizacaoNotificacaoDiscord&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moreiraacf&repo=ProjetoEnemRenda&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
