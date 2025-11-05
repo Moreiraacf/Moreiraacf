@@ -1,5 +1,4 @@
-## Olá! 👋 
-Me chamo Allysson Moreira!
+## Olá, me chamo Allysson Moreira! 👋
 
 #### Sobre o Allysson
 Profissional em transição de carreira, atualmente cursando profissionalizante em Análise de Dados, além de possuir inglês nível avançado. 
