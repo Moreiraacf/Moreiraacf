@@ -6,20 +6,20 @@ Possuo perfil proativo, resiliente e detalhista.
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moreiraacf&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moreiraacf&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moreiraacf&repo=AutomatizacaoNotificacaoDiscord&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moreiraacf&repo=AutomatizacaoNotificacaoDiscord&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moreiraacf&repo=ProjetoEnemRenda&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moreiraacf&repo=ProjetoEnemRenda&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moreiraacf&repo=CalcProjeto&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moreiraacf&repo=CalcProjeto&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moreiraacf&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moreiraacf&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contato
 
